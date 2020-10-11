@@ -1,4 +1,4 @@
-# IBM_DataScienceCapstone
+# Coursera Data Science Capstone
 
 This repository contains the source code developed for fulfilling the final assignment of IBM Data Science Capstone project.
 
