@@ -3,7 +3,7 @@
 This repository contains the source code developed for fulfilling the final assignment of IBM Data Science Capstone project.
 
 
-This project aims to create a prediction model of the risk of a car accident using historical data.
+This project aims to create To Be defined.
 
 This repository contains the source code developed and the dataset used for model training and validation.
 
